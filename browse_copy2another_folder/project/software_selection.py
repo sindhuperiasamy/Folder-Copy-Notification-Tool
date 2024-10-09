@@ -5,13 +5,13 @@ from tkinter import filedialog, messagebox
 from plyer import notification
 
 # Define Folder1 as a static (fixed) path
-folder1_path = r"C:\Users\smohanku\Downloads\browse_copy2another_folder\main"  # Set your static path here
+folder1_path = r"C:\Users\-----\Downloads\browse_copy2another_folder\main"  # Set your static path here
 
 # Define the initial directory for Folder2 browsing
-initial_folder2_dir = r"C:\Users\smohanku\Downloads\browse_copy2another_folder\project"
+initial_folder2_dir = r"C:\Users\-----\Downloads\browse_copy2another_folder\project"
 
 # Path to the text file for notification
-file_path = r'C:\Users\smohanku\Downloads\browse_copy2another_folder\main\currentfolder.txt' 
+file_path = r'C:\Users\------\Downloads\browse_copy2another_folder\main\currentfolder.txt' 
 
 # Function to delete all files in main folder
 def delete_files_in_folder(folder_path):
